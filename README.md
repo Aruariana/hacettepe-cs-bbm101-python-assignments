@@ -1,1 +1,1 @@
-These are the assignments that I did in my first semester in the BBM101 class' lab. BBM101 is the introduction class to programming and it is given in Python. In the project folders you can find the assignment pdf's to fully understand it.
+These are the assignments that I completed during my first semester in Hacettepe CS, in the BBM101 class's lab. BBM101 is the introductory programming class, taught in Python. You can find the assignment PDFs in the project folders for a full understanding.
