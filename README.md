@@ -1,0 +1,1 @@
+These are the assignments that I did in my first semester in the BBM101 class' lab. BBM101 is the introduction class to programming and it is given in Python. In the project folders you can find the assignment pdf's to fully understand it.
